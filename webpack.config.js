@@ -1,6 +1,6 @@
 module.exports = {
   output: {
-    path: `${__dirname}/public`,
+    path: `${__dirname}/public/js`,
     filename: 'main.js'
   },
   resolve: {
