@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "build-dev": "webpack --mode development",
+    "build-pro": "webpack --mode production"
+  },
   "devDependencies": {
     "webpack": "^4.39.1",
     "webpack-cli": "^3.3.6"

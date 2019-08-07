@@ -10,7 +10,6 @@ class MyApp < Sinatra::Base
 ################################################################################
 
   get "/" do
-    @message = "hogehogeeeeeee"
     erb :index
   end
 
