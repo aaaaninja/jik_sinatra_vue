@@ -1,5 +1,4 @@
-require "erb"
-
+require "erubi"
 require "sinatra/base"
 require "sinatra/reloader"
 
